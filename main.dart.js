@@ -95888,7 +95888,7 @@ f=A.aW(a,10,a)
 e=A.aA("DATE- "+A.i(r.h(0,"date")),a,a,a,a,a,a,a)
 d=A.aW(a,10,a)
 c=A.i(r.h(0,"time"))
-c=A.l5("TIME- "+c+" hrs","minified:bg(","")
+c=A.l5("TIME- "+c+" hrs","minified:bo(","")
 c=A.l5(c,"TimeOfDay(","")
 b=t.p
 return new A.bj(new A.ax(8,8,8,8),A.c7(A.b([s,q,n,m,l,k,A.dU(A.b([A.dp(A.dx(A.c7(A.b([o,j,i,h,g,f,e,d,A.aA(A.l5(c,")",""),a,a,a,a,a,a,a),A.aW(a,10,a),A.aA("AMOUNT- "+A.i(r.h(0,"tot_amt")),a,a,a,a,a,a,a),A.aW(a,10,a),A.aA("NUMBER OF PEOPLE- "+A.i(r.h(0,"people")),a,a,a,a,a,a,a),A.aW(a,10,a),A.aA("VEHICLE- "+A.i(r.h(0,"veh_ty")),a,a,a,a,a,a,a),A.aW(a,10,a),A.aA("PHONE NO- "+A.i(r.h(0,"ph_no")),a,a,a,a,a,a,a)],b),B.aT,B.v,B.B),a,a),2),A.dp(A.aW(a,a,10),2),A.dp(A.c0(a,A.kl(a,A.dT(B.HM,B.bX,a,30),a,new A.avX(p,a0),a,a),B.m,a,a,a,a,a,a,a,a,a,40),2)],b),B.I,B.v,B.B,a)],b),B.I,B.v,B.B),a)},
