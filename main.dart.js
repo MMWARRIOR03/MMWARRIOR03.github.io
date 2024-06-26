@@ -95900,7 +95900,7 @@ p=A.a7O(new A.dq(o))
 A.apU(p,p.ghP().mD("user")).iQ(this.a.e).a.mI(0)
 p=this.b.a6(t.Pu)
 p.toString
-s=A.df(0,0,0,1)
+s=A.df(20,18,24,1)
 r=A.i6(10)
 p.f.Dy(A.ai9(q,q,q,s,q,B.O,q,A.c0(q,A.c7(A.b([A.aA("Trip deleted successfully!!",q,q,q,A.bJ(q,q,B.i,q,q,q,q,q,q,q,q,18,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q,q)],t.p),B.I,B.v,B.B),B.m,q,q,new A.cs(B.bX,q,q,r,q,q,B.a9),q,q,q,new A.ax(16,16,16,16),q,q,q),q,B.k4,q,q,q,q,q,q,q,q,q))},
 $S:0}
